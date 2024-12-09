@@ -1,0 +1,10 @@
+.errorMessage{
+    color: red;
+    padding: 20px;
+}
+
+body{
+    background-color: rgb(45, 47, 103);
+    color: rgb(168, 177, 222);
+    text-align: center;
+}
